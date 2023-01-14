@@ -1,0 +1,65 @@
+
+li{
+    list-style-type: none;
+    display: inline-block;
+    font-size: 2cm;
+    padding-right: 6%;
+    
+}
+#bv{
+    font-size: 1cm;
+    background-color: blue; height: 8cm;
+    text-align: center;
+    color: aliceblue;
+}
+.app{
+    text-align: center;
+    font-size: 1cm;
+}
+#propos{
+    color: blueviolet;
+    font-size: 2cm;
+    font-family :fantasy;
+}
+#t ,#a, #l {
+    font-size: 2cm;
+    color: blueviolet;
+    font-size: 2cm;
+    font-family :fantasy;
+}
+#trv{
+    text-align: center;
+}
+.trv{
+    text-align: center;
+    font-size: 50px;
+    }
+.img{
+    text-align: center;
+}
+#d ,#e, #f, #g, #ytb1, #ytb2{
+    border: solid red 8px;
+}
+.cv {
+    text-align: center;
+    font-size: 50px;
+    color: blueviolet;
+}
+ #p{
+    color: seagreen;
+   
+}
+footer{
+    background-color: blue;
+    font-size: 20px;
+}
+#button{
+    background-color: green;
+    font-size: 1cm;
+}
+#motfin{
+    font-size: 2cm;
+    color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
